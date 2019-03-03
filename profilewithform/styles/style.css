@@ -1,0 +1,78 @@
+h1{
+  margin: 0;
+  padding: 100px 100px;
+  color: black;
+  text-shadow: 3px 3px 3px blueviolet;
+
+
+}
+form{
+  background-color: bisque;
+  margin: 0 auto;
+  width:500px;
+  padding:1em;
+  border: 1px  solid black;
+  border-radius: 1em;
+}
+form div{
+   margin-top: 1em;
+}
+
+.radio input{
+  
+  width: 30px;
+}
+
+label{
+  display: inline-block;
+  width:90px;
+  text-align: right;
+}
+input,textarea{
+  font:1em sans-serif;
+  width:300px;
+  box-sizing: border-box;
+  border: 1px solid black;
+}
+input:focus, textarea:focus{
+  border-color: purple;
+  background-color: aqua;
+}
+ .button{
+   padding-left: 10px;
+   width: 300px;
+ }
+ button{
+  
+   margin-left: 8cm;
+ }
+ div{
+   margin-top: 5mm;
+ }
+ .mm {
+   text-align: center;
+ }
+ html{ background-color: pink; }
+ h1{
+   margin: 0;
+   font size: 50px;
+   color:black;
+   text-align: center;
+ }
+ p{
+   color: rgb(240, 155, 106)
+   border: 1px solid black;
+   padding: 50px,50px,50px,50px;
+  }
+  table{
+    text-align: center;
+    border: 1px solid black;
+  }
+  body{
+    width: 700px;
+    margin:0 auto;
+    background-color: rgb(139, 217, 248);
+    padding:0 30px 35px 30px;
+    border: 5px solid blue;
+  }
+  
